@@ -9,7 +9,7 @@ pygame.init()
 
 ximg = pygame.image.load('x.png')
 oimg = pygame.image.load('o.png')
-img1 = pygame.image.load('1.png')
+
 turn = 0
 run = True
 display_width = 500
